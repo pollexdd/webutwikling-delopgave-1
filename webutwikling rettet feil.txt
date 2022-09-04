@@ -1,0 +1,5 @@
+1 la til <!DOCTYPE html>
+2 la in språk engelsk
+lat til charset="utf-8" encoding lanugage 
+4 flyttet head ut av body
+la til </article> på første artikkelen
